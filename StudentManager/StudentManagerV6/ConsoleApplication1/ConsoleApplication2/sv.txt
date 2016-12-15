@@ -1,0 +1,4 @@
+an	sv01	hn	nu	6	8	10
+binh	sv02	vn	nam	7	5	9.5
+chung	sv03	hn	nu	8	4	6.5
+duong	sv04	vn	nam	9	10	7.5

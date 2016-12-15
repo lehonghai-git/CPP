@@ -1,0 +1,3 @@
+trang	2	hn	2	7	8	9	24
+haiC1	km07	th3	2	8	7	9	24
+daiC1	km09	th4	1	9	7	9	25

@@ -1,0 +1,1187 @@
+
+Thong Ke Nhanh
+Tong Sinh Vien: 40
+Diem < 15:	0
+Diem 15->20:	10
+Diem 21->25:	26
+Diem > 25:	4Thong Ke Nhanh
+Tong Sinh Vien: 40
+Diem < 15:	0
+Diem 15->20:	10
+Diem 21->25:	26
+Diem > 25:	4Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 0
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	0
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 20
+Diem < 15:	0
+Diem 15->20:	9
+Diem 21->25:	9
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 10
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	8
+Diem > 25:	2Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	4
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	4
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	4
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	4
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 4
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 3
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	3
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 2
+Diem < 15:	0
+Diem 15->20:	0
+Diem 21->25:	2
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 6
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	5
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 6
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	4
+Diem > 25:	1Thong Ke Nhanh
+Tong Sinh Vien: 5
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	4
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 5
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	4
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 5
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	4
+Diem > 25:	0Thong Ke Nhanh
+Tong Sinh Vien: 5
+Diem < 15:	0
+Diem 15->20:	1
+Diem 21->25:	4
+Diem > 25:	0

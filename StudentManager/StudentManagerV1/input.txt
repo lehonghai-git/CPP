@@ -1,0 +1,4 @@
+Hai	01	HN	Nam	9	8	9
+Khoa	02	NB	Nu	8	9	8
+Cuong	03	TH	Nam	9	8	7
+Dai	04	NA	Nu	7	10	8

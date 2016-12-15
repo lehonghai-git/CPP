@@ -1,0 +1,4 @@
+Khoa	01	NB	2	7	8	9	24
+Cuong	02	TH	3	8	8	9	25
+Hai	03	HN	1	8	8	9	25
+Dai	04	NA	1	9	9	9	27

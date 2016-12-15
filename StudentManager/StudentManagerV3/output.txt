@@ -1,0 +1,4 @@
+Hai	sv1	HN	1	9	9	9	27
+Khoa	sv2	NB	2	6	7	8	21
+Cuong	sv3	TH	3	7	8	9	24
+Dai	sv4	NA	1	9	9	9	27

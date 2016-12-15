@@ -1,0 +1,6 @@
+Tinh	06	HN	Nam	1	2	3	6
+Hoang	07	HN	Nu	5	6	7	18
+Cuong	03	TH	Nam	9	8	7	24
+Khoa	02	NB	Nu	8	9	8	25
+Dai	04	NA	Nu	7	10	8	25
+Hai	01	HN	Nam	9	8	9	26
