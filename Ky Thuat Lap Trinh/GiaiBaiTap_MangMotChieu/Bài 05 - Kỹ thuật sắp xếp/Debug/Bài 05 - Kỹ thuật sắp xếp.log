@@ -1,7 +1,0 @@
-﻿  main.cpp
-c:\users\hai\desktop\ky thuat lap trinh\giaibaitap_mangmotchieu\bài 05 - kỹ thuật sắp xếp\main.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
-c:\users\hai\desktop\ky thuat lap trinh\giaibaitap_mangmotchieu\bài 05 - kỹ thuật sắp xếp\main.cpp(49): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
-  Bài 05 - Kỹ thuật sắp xếp.vcxproj -> C:\Users\hai\Desktop\Ky Thuat Lap Trinh\GiaiBaiTap_MangMotChieu\Debug\Bài 05 - Kỹ thuật sắp xếp.exe
-  Bài 05 - Kỹ thuật sắp xếp.vcxproj -> C:\Users\hai\Desktop\Ky Thuat Lap Trinh\GiaiBaiTap_MangMotChieu\Debug\Bài 05 - Kỹ thuật sắp xếp.pdb (Partial PDB)

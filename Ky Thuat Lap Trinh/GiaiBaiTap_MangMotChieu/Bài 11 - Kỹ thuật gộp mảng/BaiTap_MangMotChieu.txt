@@ -1,4 +1,0 @@
-﻿1. Gộp mảng đã tách theo thứ tự lẻ trước sau đó đến chẵn
-lẻ: 1 3 4 5 7
-chẵn: 2 4 6 8
-=> Gộp thành: 1 3 4 5 7 2 4 6 8
