@@ -1,0 +1,31 @@
+﻿Bài 1
+Đếm số lượng các giá trị phân biệt có trong mảng. In ra màn hình các giá trị phân biệt đó
+VD: 1 1 2 3 3 3 1 2
+=> 3 phần tử phân biệt: 1 2 3
+--------------------
+Bài 2
+a. Đếm số lần xuất hiện của các phần tử có trong mảng.
+VD: 1 2 3 4 5 6 5 5 1 1 1 2 4 3 3 3 3
+Số 1: 4 lần
+Số 2: 2 lần
+Số 3: 5 lần
+Số 4: 2 lần
+Số 5: 3 lần
+Số 6: 1 lần
+
+* Ý tưởng:
+Đứng từ vị trí hiện tại ta đi xét về các phần tử đứng trước
+đó xem có bị trùng giá trị hay không? Nếu bị trùng thì bỏ qua
+Nếu không thì chạy từ vị trí đó về sau và đếm xem có bao nhiêu
+phần tử trùng với nó, in ra số lượng
+
+b. Tìm ra các số nguyên có tần suất xuất hiện nhiều nhất và
+xuất ra số nguyên đó kèm theo số lần xuất hiện.
+VD1: 1 2 3 4 5 6 6 6 7 8
+=> Phần tử 6 xuất hiện 3 lần
+VD2: 1 2 2 2 5 6 6 6 7 8 8 8
+=> Phần tử 2, 6, 8 xuất hiện 3 lần
+--------------------
+Bài 3
+Đếm các số  chẵn trong mảng 1 chiều các số nguyên
+--------------------

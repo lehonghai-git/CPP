@@ -1,0 +1,7 @@
+﻿Bài 1. Bài tập chương câu lệnh điều kiện và rẽ nhánh
+a. Viết hàm đổi một ký tự hoa sang ký tự thường.
+b. Viết thủ tục giải phương trình bậc nhất.
+c. Viết thủ tục giải phương trình bậc hai.
+d. Viết hàm trả về giá trị nhỏ nhất của 4 số nguyên.
+e. Viết thủ tục hoán vị hai số nguyên.
+f. Viết thủ tục sắp xếp 4 số nguyên tăng dần

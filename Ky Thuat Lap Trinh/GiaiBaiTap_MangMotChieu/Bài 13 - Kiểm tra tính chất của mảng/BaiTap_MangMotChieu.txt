@@ -1,0 +1,24 @@
+﻿Bài 1
+Kiểm tra một mảng xem có phải mảng đối xứng hay không?
+VD:
+- Mảng đối xứng: 1 2 3 2 1; 1 2 2 1; 1
+- Mảng không đối xứng: 1 2 4 5; 1 2 3; 1 2
+VD: 1 2 3 4 5 4 3 2 1 (n = 9, n/2 = 4 => vị trí 4 là vị trí ở giữa)
+So sánh các cặp:
+	a[0] vs a[8]
+	a[1] vs a[7]
+	a[2] vs a[6]
+	a[3] vs a[5]
+	------------
+	a[x] vs a[y]
+X chạy từ 0 đến n/2 -1
+	0 <= x < n/2
+Ta có: x + y = n-1 => y = n-1-x
+=> Công thức chung là so sánh: a[x] vs a[y] <=> a[x] vs a[n-1-x]
+--------------------
+Bài 2
+- Kiểm tra xem mảng có là tăng dần hay không
+- VD mảng tăng dần: 1 2 3 4 5 6 hoặc 1 1 2 3 4 4 5 6 6
+--------------------
+Bài 3
+Kiểm tra xem mảng có phải toàn là nguyên tố hay không
