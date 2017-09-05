@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\hai\desktop\ky thuat lap trinh\giaibaitap_chuoikytu\bài 11 - đếm số từ trong  chuỗi\main.cpp(24): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  Bài 11 - Đếm số từ trong  chuỗi.vcxproj -> C:\Users\Hai\Desktop\Ky Thuat Lap Trinh\GiaiBaiTap_ChuoiKyTu\Debug\Bài 11 - Đếm số từ trong  chuỗi.exe
+  Bài 11 - Đếm số từ trong  chuỗi.vcxproj -> C:\Users\Hai\Desktop\Ky Thuat Lap Trinh\GiaiBaiTap_ChuoiKyTu\Debug\Bài 11 - Đếm số từ trong  chuỗi.pdb (Partial PDB)
