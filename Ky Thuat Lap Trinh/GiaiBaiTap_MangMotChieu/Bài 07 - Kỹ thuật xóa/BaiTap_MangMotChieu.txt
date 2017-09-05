@@ -1,0 +1,4 @@
+﻿- Thao tác xóa một phần tử trong mảng.
+- Xóa tất cả các sỗ chẵn có trong mảng
+- Xóa tất cả các phần tử max trong mảng. VD: 1 2 3 9 6 9 6 9 6 2 => 1 2 3 6 6 6 2
+- Xóa tất cả các phần tử có chữ số đầu là 5. VD: 5, 51, 500, 5000...

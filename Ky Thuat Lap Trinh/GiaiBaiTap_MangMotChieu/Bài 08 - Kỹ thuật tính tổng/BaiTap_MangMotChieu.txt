@@ -1,0 +1,3 @@
+﻿1. Nhập vào mảng số nguyên, hãy tính tổng các phần tử mà có chữ số hàng chục = 5.
+2. Tổng các số nguyên tố cho mảng
+3. Có bao nhiêu số chia hết cho 4 nhưng không chia hết cho 5
