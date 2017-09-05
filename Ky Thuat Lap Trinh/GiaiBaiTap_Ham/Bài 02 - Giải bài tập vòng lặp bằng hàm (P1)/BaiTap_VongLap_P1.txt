@@ -1,0 +1,9 @@
+﻿Bài tập chương câu lệnh lặp. Hàm nhận vào một
+số nguyên dương n và thực hiện:
+a. Trả về số đảo của số đó.
+b. Có phải là số đối xứng (Trả về True/False)
+c. Có phải là số chính phương.
+d. Có phải là số nguyên tố.
+e. Tổng các chữ số lẻ.
+f. Tổng các chữ số nguyên tố.
+g. Tổng các chữ số chính phương
