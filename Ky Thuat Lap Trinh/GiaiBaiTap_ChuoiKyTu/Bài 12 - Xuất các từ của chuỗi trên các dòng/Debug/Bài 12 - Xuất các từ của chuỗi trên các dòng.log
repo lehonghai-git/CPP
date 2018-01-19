@@ -1,8 +1,0 @@
-﻿  main.cpp
-c:\users\hai\desktop\ky thuat lap trinh\giaibaitap_chuoikytu\bài 12 - xuất các từ của chuỗi trên các dòng\main.cpp(25): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
-c:\users\hai\desktop\ky thuat lap trinh\giaibaitap_chuoikytu\bài 12 - xuất các từ của chuỗi trên các dòng\main.cpp(57): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
-c:\users\hai\desktop\ky thuat lap trinh\giaibaitap_chuoikytu\bài 12 - xuất các từ của chuỗi trên các dòng\main.cpp(37): warning C4172: returning address of local variable or temporary: p
-  Bài 12 - Xuất các từ của chuỗi trên các dòng.vcxproj -> C:\Users\Hai\Desktop\Ky Thuat Lap Trinh\GiaiBaiTap_ChuoiKyTu\Debug\Bài 12 - Xuất các từ của chuỗi trên các dòng.exe
-  Bài 12 - Xuất các từ của chuỗi trên các dòng.vcxproj -> C:\Users\Hai\Desktop\Ky Thuat Lap Trinh\GiaiBaiTap_ChuoiKyTu\Debug\Bài 12 - Xuất các từ của chuỗi trên các dòng.pdb (Partial PDB)

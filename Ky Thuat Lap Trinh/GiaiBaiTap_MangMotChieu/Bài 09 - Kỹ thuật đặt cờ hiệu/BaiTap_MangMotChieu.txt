@@ -1,1 +1,0 @@
-﻿1. Kiểm tra mảng số nguyên có tồn tại 2 giá trị 0 liên tiếp hay không?

@@ -1,9 +1,0 @@
-﻿Bài tập chương Câu lệnh lặp. Hàm nhận vào một
-số nguyên dương n và thực hiện:
-a. S = 1 + 2 + … + n
-b. S = 12 + 22 + … + n2
-c. S = 1 + 1/2 + … + 1/n
-d. S = 1 * 2 * … * n
-e. S = 1! + 2! + … + n!
-f. S = Căn (2 + Căn (2 + Căn (2 + Căn (2 + Căn 2))))
-=> n lần căn 2

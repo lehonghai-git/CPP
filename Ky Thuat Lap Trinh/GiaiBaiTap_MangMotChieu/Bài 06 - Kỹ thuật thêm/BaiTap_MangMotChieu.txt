@@ -1,8 +1,0 @@
-﻿Bài 1
-- Thao tác thêm một phần tử mới vào trong mảng.
-- Thêm số 0 (hoặc số nào đó tùy đề bài) vào sau tất cả các phần tử chẵn trong mảng.
-VD: Mảng: 1 2 3 4 5 6
-=> 1 2 0 3 4 0 5 6 0
-- Thêm giá trị 69 vào đằng sau các số có chữ số tận cùng là 9
-VD: 1 13 69 2 23 69 33 69 3 69 43 69 9
---------------------

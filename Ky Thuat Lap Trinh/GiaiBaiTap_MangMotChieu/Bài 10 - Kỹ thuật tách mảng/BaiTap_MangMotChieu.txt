@@ -1,5 +1,0 @@
-﻿1. Nhập vào mảng 1 chiều các số nguyên.
-- Tách các số chẵn ra 1 mảng
-- Tách các số lẻ ra một mảng
-- Tách các số nguyên tố ra một mảng
-- Tách các số chính phương ra một mảng
