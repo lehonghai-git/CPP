@@ -1,0 +1,9 @@
+C:\Users\Hai\Desktop\MailSender\MailSender\bin\Debug\MailSender.exe.config
+C:\Users\Hai\Desktop\MailSender\MailSender\bin\Debug\MailSender.exe
+C:\Users\Hai\Desktop\MailSender\MailSender\bin\Debug\MailSender.pdb
+C:\Users\Hai\Desktop\MailSender\MailSender\obj\Debug\MailSender.csprojResolveAssemblyReference.cache
+C:\Users\Hai\Desktop\MailSender\MailSender\obj\Debug\MailSender.Properties.Resources.resources
+C:\Users\Hai\Desktop\MailSender\MailSender\obj\Debug\MailSender.csproj.GenerateResource.Cache
+C:\Users\Hai\Desktop\MailSender\MailSender\obj\Debug\MailSender.exe
+C:\Users\Hai\Desktop\MailSender\MailSender\obj\Debug\MailSender.pdb
+C:\Users\Hai\Desktop\MailSender\MailSender\obj\Debug\MailSender.MailSender.resources
